@@ -1,0 +1,203 @@
+Python Image Crop Viewer – Análisis de mercado y usuarios
+
+⸻
+
+Qué problema resuelve
+
+Muchos flujos de trabajo con imágenes requieren recortar rápidamente grandes cantidades de imágenes.
+
+Los problemas comunes son:
+	•	recortar imágenes una por una es lento
+	•	los editores gráficos son pesados para tareas simples
+	•	el proceso de abrir → recortar → exportar se vuelve repetitivo
+	•	cuando hay muchas imágenes el flujo se vuelve ineficiente
+
+Además, muchas imágenes necesitan el mismo tipo de recorte o ajustes similares antes de usarse en web, datasets o publicaciones.
+
+El Python Image Crop Viewer soluciona esto permitiendo:
+	•	visualizar imágenes rápidamente
+	•	seleccionar el área de recorte visualmente
+	•	guardar el resultado de forma inmediata
+	•	repetir el proceso de forma rápida en muchas imágenes
+
+El enfoque es velocidad y simplicidad, sin herramientas innecesarias.
+
+⸻
+
+A quién podría estar dirigido
+
+1. Web developers
+
+Necesitan preparar imágenes para:
+	•	sitios web
+	•	thumbnails
+	•	assets de interfaz
+
+⸻
+
+2. Diseñadores gráficos
+
+Recortan imágenes para:
+	•	composiciones
+	•	layouts
+	•	recursos visuales
+
+⸻
+
+3. Fotógrafos
+
+Recortan imágenes para:
+	•	portfolios
+	•	galerías
+	•	publicaciones online
+
+⸻
+
+4. Creadores de datasets
+
+Muchas tareas de machine learning requieren:
+	•	recortar imágenes
+	•	preparar datasets visuales
+
+⸻
+
+5. Gestores de contenido
+
+Quienes suben imágenes a:
+	•	blogs
+	•	ecommerce
+	•	CMS
+
+⸻
+
+6. E-commerce managers
+
+Necesitan preparar:
+	•	fotos de productos
+	•	thumbnails
+	•	imágenes consistentes
+
+⸻
+
+Quiénes usarían el software
+
+Web developer
+Frontend developer
+Graphic designer
+Photographer
+Content manager
+Ecommerce manager
+Machine learning engineer
+Data scientist
+Digital marketer
+Content creator
+
+⸻
+
+Personas que buscan el software
+
+Estas personas ya saben que necesitan una herramienta.
+
+image crop tool
+batch image crop software
+image cropping tool
+crop images software
+image crop program
+batch image cropper
+crop images desktop tool
+image crop viewer
+
+⸻
+
+Personas que buscan solo la solución
+
+Estas personas describen el problema.
+
+how to crop many images quickly
+how to batch crop images
+how to crop images faster
+how to crop images for website
+how to crop images for dataset
+how to crop multiple photos at once
+
+⸻
+
+Personas que buscan el programa directamente
+
+Estas personas buscan software específico.
+
+batch image cropper software
+image crop tool for windows
+desktop image cropper
+image cropping program
+batch photo crop software
+photo crop software
+
+⸻
+
+Palabras clave de cola larga
+
+batch image crop tool for windows
+crop multiple images quickly
+visual image cropper tool
+batch crop images for web
+crop images for ecommerce products
+crop images for dataset preparation
+fast image cropping software
+image crop tool for large image sets
+
+⸻
+
+Palabras relacionadas
+
+image cropping
+batch image processing
+image editing
+photo cropping
+image trimming
+image preprocessing
+image preparation
+image editing workflow
+image batch processing
+photo editing tools
+
+⸻
+
+Personas que buscan el problema
+
+Estas personas tienen el problema, no conocen el software.
+
+how to prepare images for website
+how to crop product images
+how to prepare image dataset
+how to resize and crop images
+how to edit many images quickly
+
+⸻
+
+Profesiones que podrían usarlo
+
+Web developer
+Frontend developer
+Graphic designer
+Photographer
+Content manager
+Ecommerce manager
+Machine learning engineer
+Data scientist
+Digital marketer
+Content creator
+UX designer
+
+⸻
+
+Sectores donde se usa
+
+Web development
+Graphic design
+Photography
+Ecommerce
+Digital marketing
+Machine learning
+Data science
+Content publishing
