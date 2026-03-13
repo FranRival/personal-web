@@ -1,0 +1,208 @@
+Image Compress Script – Análisis de Mercado y Usuarios
+
+Qué problema resuelve
+
+El software resuelve un problema muy común en internet:
+
+Las imágenes pesan demasiado aunque ya estén recortadas y listas para usarse.
+
+Esto provoca:
+	•	páginas web lentas
+	•	peor rendimiento SEO
+	•	mayor consumo de ancho de banda
+	•	peor experiencia móvil
+	•	mayor uso de almacenamiento
+
+Muchos compresores solucionan esto reduciendo resolución o eliminando píxeles, lo cual no siempre es aceptable.
+
+Este software permite:
+	•	reducir peso sin cambiar resolución
+	•	mantener calidad visual
+	•	optimizar imágenes finales listas para web
+
+Es especialmente útil cuando las imágenes ya han sido preparadas, recortadas o diseñadas.
+
+⸻
+
+A quién podría estar dirigido
+
+1. Web developers
+
+Necesitan optimizar imágenes para mejorar:
+	•	velocidad de carga
+	•	Core Web Vitals
+	•	rendimiento general
+
+⸻
+
+2. SEO specialists
+
+Las imágenes pesadas afectan directamente:
+	•	LCP
+	•	PageSpeed
+	•	ranking SEO
+
+⸻
+
+3. Bloggers / content publishers
+
+Sitios con muchas imágenes necesitan:
+	•	páginas rápidas
+	•	menor uso de servidor
+
+⸻
+
+4. Diseñadores gráficos
+
+Exportan imágenes de:
+	•	Photoshop
+	•	Illustrator
+	•	Figma
+
+Muchas veces los archivos quedan más pesados de lo necesario.
+
+⸻
+
+5. E-commerce managers
+
+Tiendas online tienen:
+	•	miles de imágenes de productos
+	•	necesidad de carga rápida
+
+⸻
+
+6. Fotógrafos
+
+Necesitan publicar imágenes online sin subir archivos gigantes.
+
+⸻
+
+7. Creadores de contenido
+
+Suben muchas imágenes a:
+	•	blogs
+	•	redes sociales
+	•	sitios personales
+
+⸻
+
+Personas que usarían el software
+
+Web developer
+Frontend developer
+SEO specialist
+Technical SEO
+WordPress developer
+Blogger
+Content creator
+Photographer
+Graphic designer
+E-commerce manager
+Digital marketer
+Web performance engineer
+
+⸻
+
+Personas que buscan el software
+
+Estas personas ya saben que necesitan una herramienta.
+
+Ejemplos de búsquedas:
+
+compress images without losing quality
+image compressor without quality loss
+reduce image size without resizing
+compress images without losing pixels
+high quality image compression tool
+image optimizer for web
+compress jpg without losing quality
+compress png without losing quality
+batch image compression tool
+
+⸻
+
+Personas que buscan solo la solución
+
+No saben qué software usar, solo describen el problema.
+
+reduce image size without losing quality
+why are my images so heavy
+how to reduce image weight for website
+how to optimize images for website speed
+how to make images smaller without resizing
+how to improve website speed images
+how to reduce image file size
+
+⸻
+
+Palabras clave de cola larga
+
+compress images without losing quality online
+reduce image file size without losing resolution
+compress cropped images without quality loss
+optimize images for website performance
+compress images for faster website loading
+reduce image size for SEO optimization
+compress product images for ecommerce
+reduce jpg size without losing pixels
+image compression for web performance
+
+⸻
+
+Palabras relacionadas
+
+image compression
+image optimization
+image weight reduction
+lossless compression
+web image optimization
+image performance
+image optimization for SEO
+image optimizer
+image file size reduction
+image encoding optimization
+
+⸻
+
+Personas que buscan el programa directamente
+
+Estas personas buscan una herramienta concreta.
+
+image compression software
+image optimizer software
+best image compression tool
+image optimizer program
+image compressor desktop tool
+software to compress images
+batch image compression software
+
+⸻
+
+Profesiones que podrían usarlo
+
+Web developer
+Frontend developer
+SEO specialist
+Technical SEO
+WordPress developer
+Web performance engineer
+Digital marketer
+Graphic designer
+Photographer
+Ecommerce manager
+Content creator
+UX designer
+
+⸻
+
+Sectores donde se usaría
+
+Web development
+SEO
+Digital marketing
+Ecommerce
+Blogging / publishing
+Photography
+Graphic design
+Media production
+Content platforms
