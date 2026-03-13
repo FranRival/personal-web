@@ -1,0 +1,205 @@
+Explosion Simulation Software – Procedural Explosion Generator for Visual Effects
+
+Análisis de mercado y usuarios
+
+⸻
+
+Qué problema resuelve
+
+Crear explosiones realistas para gráficos, animación o videojuegos suele requerir:
+	•	software VFX complejo
+	•	motores de simulación pesados
+	•	bibliotecas de efectos pre-renderizados
+	•	mucho tiempo de animación manual
+
+Además, muchos artistas necesitan probar rápidamente diferentes explosiones para:
+	•	escenas de acción
+	•	efectos visuales
+	•	prototipos de videojuegos
+	•	simulaciones visuales
+
+El software resuelve este problema generando explosiones procedurales automáticamente, permitiendo:
+	•	crear explosiones mediante algoritmos
+	•	generar animaciones rápidamente
+	•	experimentar con parámetros visuales
+	•	producir secuencias listas para usar
+
+Esto reduce el tiempo necesario para crear efectos visuales complejos.
+
+⸻
+
+A quién podría estar dirigido
+
+1. Desarrolladores de videojuegos
+
+Necesitan explosiones para:
+	•	efectos de combate
+	•	armas
+	•	destrucción ambiental
+
+⸻
+
+2. Artistas de efectos visuales (VFX)
+
+Trabajan en:
+	•	cine
+	•	animación
+	•	comerciales
+	•	contenido digital
+
+⸻
+
+3. Technical artists
+
+Especialistas que conectan arte y programación dentro de motores gráficos.
+
+⸻
+
+4. Motion designers
+
+Usan efectos visuales para:
+	•	videos
+	•	contenido promocional
+	•	animaciones
+
+⸻
+
+5. Desarrolladores de simulaciones
+
+Crean:
+	•	simulaciones físicas
+	•	visualizaciones científicas
+	•	prototipos gráficos
+
+⸻
+
+6. Creadores de contenido 3D
+
+YouTubers o creadores que trabajan con:
+	•	animación
+	•	gráficos generativos
+	•	efectos visuales
+
+⸻
+
+Quiénes usarían el software
+
+Game developer
+VFX artist
+Technical artist
+3D artist
+Motion designer
+Animator
+Simulation developer
+Creative coder
+Generative artist
+Visual effects designer
+
+⸻
+
+Personas que buscan el software
+
+Estas personas ya saben que necesitan una herramienta.
+
+explosion simulation software
+explosion generator tool
+vfx explosion generator
+explosion animation software
+procedural explosion generator
+explosion effect generator
+explosion simulation tool
+vfx explosion creator
+
+⸻
+
+Personas que buscan solo la solución
+
+Estas personas describen el problema sin saber qué software usar.
+
+how to create explosion effect
+how to simulate explosions
+how to make explosion animation
+how to create explosion vfx
+how to generate explosion effect
+how to animate explosion
+
+⸻
+
+Personas que buscan el programa directamente
+
+Estas personas buscan software específico.
+
+explosion vfx software
+explosion simulation tool
+explosion animation generator
+vfx explosion generator software
+procedural explosion tool
+explosion particle generator
+
+⸻
+
+Palabras clave de cola larga
+
+procedural explosion generator for vfx
+explosion simulation tool for games
+create explosion animation automatically
+explosion effect generator for animation
+vfx explosion generator software
+explosion particle simulation tool
+generate explosion effects for video games
+explosion animation generator tool
+
+⸻
+
+Palabras relacionadas
+
+explosion simulation
+procedural animation
+particle simulation
+visual effects
+vfx tools
+particle systems
+explosion animation
+generative graphics
+physics simulation
+visual effects generator
+
+⸻
+
+Personas que buscan el problema
+
+Estas personas buscan aprender o mejorar efectos visuales.
+
+how to make visual effects
+how to create particle effects
+how to create explosions in animation
+how to make vfx effects
+how to generate particle explosions
+
+⸻
+
+Profesiones que podrían usarlo
+
+Game developer
+VFX artist
+Technical artist
+3D artist
+Animator
+Motion designer
+Simulation engineer
+Creative coder
+Generative artist
+Graphics programmer
+
+⸻
+
+Sectores donde se usa
+
+Video game development
+Visual effects (VFX)
+Animation
+Film production
+Motion graphics
+Simulation software
+Generative art
+Computer graphics
